@@ -11,10 +11,19 @@
     height: 150px
 }
 
+
 .academies-table img {
     max-width: 100px;
 }
 
+.academies-table .biggerAcaImg {
+    max-width: 180px;
+}
+
 .martop-10px {
     margin-top: 10px;
+}
+
+.padbot-30px {
+    padding-bottom: 30px;
 }
