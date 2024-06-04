@@ -1,0 +1,20 @@
+.content table {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.academies-table {
+    max-width: 1000px;
+}
+
+.academies-table tr {
+    height: 150px
+}
+
+.academies-table img {
+    max-width: 100px;
+}
+
+.martop-10px {
+    margin-top: 10px;
+}
